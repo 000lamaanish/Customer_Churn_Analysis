@@ -96,7 +96,7 @@ Deploy using Streamlit dashboard
 Add real-time prediction API
 Integrate customer segmentation
 🧠 Tech Stack
-Python 🐍
+Python 
 Pandas / NumPy
 Scikit-learn
 Matplotlib / Seaborn
